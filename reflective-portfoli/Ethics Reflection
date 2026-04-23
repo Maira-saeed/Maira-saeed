@@ -1,0 +1,17 @@
+## 3. Ethics Reflection
+
+In the context of Capstone and Professional Practices, ethics plays an important role in guiding responsible decision-making in computing.
+
+**Ethical Issue:**  
+AI bias in automated systems and data privacy concerns.
+
+**What is the Problem?**  
+AI systems may produce unfair or biased outcomes if they are trained on incomplete or unbalanced data. This can lead to discrimination and unequal treatment of users.
+
+**Professional Code Applied:**  
+ACM Code of Ethics and IEEE Code of Ethics are applicable, especially principles related to fairness, avoiding harm, transparency, and respect for user privacy.
+
+**Decision & Justification:**  
+Ethical responsibility requires that AI systems must be regularly tested and trained on diverse datasets. Developers should ensure transparency, fairness, and accountability in system design to avoid harm to users and society.
+
+---
