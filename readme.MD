@@ -36,4 +36,5 @@ Instructor: Ms .Aroosa Mubeen
 
 This repository includes my reflective portfolio developed as part of my Capstone and Professional Practices course. It highlights my learning experience, skills development, project contributions, and ethical understanding gained through academic and practical work.
 
-🔗 Full Reflective Portfolio: []
+ Full Reflective Portfolio: [https://github.com/Maira-saeed/Maira-saeed/tree/main/reflective-portfolio]
+ foe weekly logs click :[https://github.com/Maira-saeed/Maira-saeed/tree/main/Weekly-Logs]
