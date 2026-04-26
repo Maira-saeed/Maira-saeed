@@ -20,21 +20,38 @@ Instructor: Ms .Aroosa Mubeen
 - Problem Solving
 - Learning Software Development
 
-## Goals
-- Improve programming skills  
-- Build small projects  
-- Learn new technologies  
----
 ## Future Goals
 - Build strong problem-solving skills
 - Work in Artificial Intelligence field
 - Explore Cybersecurity and emerging technologies
 - Develop real-world projects for learning
 :
+## Academic & Project Work
+
+– Hangman Game (C++)
+Developed a console-based word guessing game in C++
+Strengthened programming fundamentals (loops, conditions, logic building)
+Improved problem-solving and debugging skills
+
+ – University Management System (UMS)
+Designed a system to manage student and academic records
+Applied structured programming and basic data handling concepts
+Improved system design and organizational thinking
+
+– Barrier Control System
+Developed an automated access control simulation system
+Gained understanding of security systems and automation concepts
+Enhanced analytical and logical system design skills
+
+ – Smart Mosquito Repellent Device
+Designed an innovative solution for a real-world household problem
+Focused on practical application of technology and user needs
+Developed entrepreneurial and creative thinking skills
 
  Reflective Portfolio
 
 This repository includes my reflective portfolio developed as part of my Capstone and Professional Practices course. It highlights my learning experience, skills development, project contributions, and ethical understanding gained through academic and practical work.
 
  Full Reflective Portfolio: [https://github.com/Maira-saeed/Maira-saeed/tree/main/reflective-portfolio]
- foe weekly logs click :[https://github.com/Maira-saeed/Maira-saeed/tree/main/Weekly-Logs]
+
+ for weekly logs click :[https://github.com/Maira-saeed/Maira-saeed/tree/main/Weekly-Logs]
