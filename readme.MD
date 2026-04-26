@@ -28,22 +28,13 @@ Instructor: Ms .Aroosa Mubeen
 :
 
 Academic & Project Work
-🕹️ Hangman Game (C++)
-Developed a console-based word guessing game in C++
-Strengthened programming fundamentals such as loops, conditions, and logic building
-Improved problem-solving and debugging skills
-🗂️ University Management System (UMS)
-Designed a system to manage student and academic records
-Applied structured programming and basic data handling concepts
-Improved system design and organizational thinking
-🔐 Barrier Control System
-Developed an automated access control simulation system
-Gained understanding of security systems and automation concepts
-Enhanced analytical and logical system design skills
-🌿 Smart Mosquito Repellent Device
-Designed an innovative solution for a real-world household problem
-Focused on practical application of technology and user needs
-Developed entrepreneurial and creative thinking skills
+| Project                                | Description                                                                                                    |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 🕹️ Hangman Game (C++)                 | Console-based word guessing game. Focused on loops, conditions, logic building, problem-solving and debugging. |
+| 🗂️ University Management System (UMS) | System for managing student records. Practiced structured programming and data handling concepts.              |
+| 🔐 Barrier Control System              | Automated access control simulation project. Learned security systems and improved logical thinking.           |
+| 🌿 Smart Mosquito Repellent Device     | Designed a practical solution for household problem using innovative thinking and user needs focus.            |
+
 📘 Reflective Portfolio
 
 This repository includes my reflective portfolio developed as part of the Capstone and Professional Practices course. It highlights my learning experience, skills development, project contributions, and ethical understanding gained through academic and practical work.
