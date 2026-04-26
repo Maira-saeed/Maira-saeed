@@ -26,8 +26,7 @@ Instructor: Ms .Aroosa Mubeen
 - Explore Cybersecurity and emerging technologies
 - Develop real-world projects for learning
 :
-
- Academic & Project Work
+##  **Academic & Project Work**
 
 | Project                                    | Description                                                                                                                                                                                                                           |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,6 +36,7 @@ Instructor: Ms .Aroosa Mubeen
 | **Smart Mosquito Repellent Device**     | Proposed and designed an innovative solution to address a real-world household issue. Focused on user-centered design, practical application of technology, and entrepreneurial thinking.                                             |
 
 
+## **Reflective Portfolio**
 
 This repository includes my reflective portfolio developed as part of the Capstone and Professional Practices course. It highlights my learning experience, skills development, project contributions, and ethical understanding gained through academic and practical work.
 
