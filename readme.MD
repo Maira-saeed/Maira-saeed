@@ -9,7 +9,6 @@ Computer Science Student
 - Exploring AI and new technologies  
 - Always learning and improving my skills  
 ---
-
 ##  Course Information
 Course: Capstone & Professional Practices  
 Semester: IV  
@@ -31,3 +30,10 @@ Instructor: Ms .Aroosa Mubeen
 - Work in Artificial Intelligence field
 - Explore Cybersecurity and emerging technologies
 - Develop real-world projects for learning
+:
+
+ Reflective Portfolio
+
+This repository includes my reflective portfolio developed as part of my Capstone and Professional Practices course. It highlights my learning experience, skills development, project contributions, and ethical understanding gained through academic and practical work.
+
+🔗 Full Reflective Portfolio: []
