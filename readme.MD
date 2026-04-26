@@ -9,10 +9,13 @@ Computer Science Student
 - Exploring AI and new technologies  
 - Always learning and improving my skills  
 ---
-##  Course Information
-Course: Capstone & Professional Practices  
-Semester: IV  
-Instructor: Ms .Aroosa Mubeen  
+##  **Course Information**
+
+| Field | Details |
+|------|---------|
+| Course | Capstone & Professional Practices |
+| Semester | IV |
+| Instructor | Ms. Aroosa Mubeen |
 
 ##  Skills
 - Programming: C, C++, Java, Python
