@@ -28,25 +28,10 @@ Instructor: Ms .Aroosa Mubeen
 :
 ## Academic & Project Work
 
-– Hangman Game (C++)
-Developed a console-based word guessing game in C++
+– Hangman Game (C)
+Developed a console-based word guessing game in C
 Strengthened programming fundamentals (loops, conditions, logic building)
 Improved problem-solving and debugging skills
-
- – University Management System (UMS)
-Designed a system to manage student and academic records
-Applied structured programming and basic data handling concepts
-Improved system design and organizational thinking
-
-– Barrier Control System
-Developed an automated access control simulation system
-Gained understanding of security systems and automation concepts
-Enhanced analytical and logical system design skills
-
- – Smart Mosquito Repellent Device
-Designed an innovative solution for a real-world household problem
-Focused on practical application of technology and user needs
-Developed entrepreneurial and creative thinking skills
 
  Reflective Portfolio
 
