@@ -23,12 +23,26 @@ Computer Science Student
 - Problem Solving
 - Learning Software Development
 
-## Future Goals
-- Build strong problem-solving skills
-- Work in Artificial Intelligence field
-- Explore Cybersecurity and emerging technologies
-- Develop real-world projects for learning
+##  **Future Goals**
+
+###  Short-Term Goals
+- Strengthen problem-solving and programming fundamentals  
+- Improve proficiency in C++, Python, and software development concepts  
+- Build small real-world projects for hands-on learning  
+
+###  Mid-Term Goals
+- Gain expertise in Artificial Intelligence and Machine Learning  
+- Develop skills in Cloud Computing, especially Microsoft Azure services  
+- Explore Cybersecurity fundamentals and secure system design  
+- Work on industry-level projects and team collaborations  
+
+### Long-Term Goals
+- Become a professional Software Engineer in a reputable organization  
+- Specialize in AI-driven systems, cloud-based applications, or cybersecurity  
+- Contribute to scalable, real-world solutions and innovative technologies  
+- Continuously learn emerging technologies and improve technical expertise  
 :
+
 ##  **Academic & Project Work**
 
 | Project                                    | Description                                                                                                                                                                                                                           |
