@@ -27,18 +27,20 @@ Instructor: Ms .Aroosa Mubeen
 - Develop real-world projects for learning
 :
 
-Academic & Project Work
-| Project                                | Description                                                                                                    |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 🕹️ Hangman Game (C++)                 | Console-based word guessing game. Focused on loops, conditions, logic building, problem-solving and debugging. |
-| 🗂️ University Management System (UMS) | System for managing student records. Practiced structured programming and data handling concepts.              |
-| 🔐 Barrier Control System              | Automated access control simulation project. Learned security systems and improved logical thinking.           |
-| 🌿 Smart Mosquito Repellent Device     | Designed a practical solution for household problem using innovative thinking and user needs focus.            |
+ Academic & Project Work
 
-📘 Reflective Portfolio
+| Project                                    | Description                                                                                                                                                                                                                           |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  **Hangman Game (C)**                 | Developed a console-based word guessing application using C. Focused on implementing core programming concepts such as control structures, loops, and conditional logic. Strengthened problem-solving ability and debugging skills. |
+|  **University Management System (UMS)** | Designed and implemented a system for managing student and academic records. Applied structured programming principles and basic data handling techniques to improve system organization and design thinking.                         |
+| **Barrier Control System**              | Developed an automated access control simulation system. Gained practical understanding of security and automation concepts while enhancing logical analysis and system design skills.                                                |
+| **Smart Mosquito Repellent Device**     | Proposed and designed an innovative solution to address a real-world household issue. Focused on user-centered design, practical application of technology, and entrepreneurial thinking.                                             |
+
+
 
 This repository includes my reflective portfolio developed as part of the Capstone and Professional Practices course. It highlights my learning experience, skills development, project contributions, and ethical understanding gained through academic and practical work.
-## 📊 Portfolio Sections
+
+##  Portfolio Sections
 
 | # | Section |
 |---|--------|
