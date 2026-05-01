@@ -1,29 +1,22 @@
-# Week 01 - Orientation  
+# Week 01 - Orientation
 
-## Topics Covered  
-Role of a Computer Science Graduate  
-Graduate Attributes  
-Self-Assessment  
+## Topics
+CS Graduate Role, Attributes, Self-Assessment
 
-## What I Learned  
-This week I learned that a Computer Science graduate is not just a programmer but also a problem solver. A developer designs, codes, tests, and maintains systems. I also understood the importance of professional ethics like protecting data and avoiding plagiarism. Graduate attributes such as technical skills, communication, teamwork, and time management are essential. Self-assessment helps identify strengths and weaknesses.  
+## Learning
+CS graduate is not just a programmer but a problem solver. Learned about ethics, teamwork, communication, and time management. Self-assessment helps identify strengths and weaknesses.
 
-## Applications  
-Developing software systems  
-Problem-solving in real-world scenarios  
-Working in teams and communication  
+## Applications
+Software development, problem-solving, teamwork
 
-## Tools / Technologies  
-GitHub  
-Programming languages (Python, C++, Java)  
+## Tools
+GitHub, Python, C++, Java
 
-## Challenges Faced  
-Understanding beyond coding  
-Importance of soft skills  
+## Challenges
+Beyond coding, soft skills importance
 
-## How I Overcame Them  
-Reviewed lectures  
-Used real-life examples  
+## Overcome
+Lectures + real examples
 
-## Reflection  
-This week helped me understand that success in CS requires both technical and soft skills. I need to improve communication, teamwork, and time management along with coding.
+## Reflection
+Success in CS needs both technical and soft skills.
